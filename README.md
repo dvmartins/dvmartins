@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Danilo Martins
 
-- Trabalho como desenvolvedor web PHP a 5 anos, moro em São Paulo - SP, tenho experiencia em sustentação e desenvolvimento de projetos escaláveis utilizando  
-  CLEAN CODE, MVC, POO.  
+- Trabalho como desenvolvedor web PHP a 5 anos, moro em São Paulo - SP, tenho experiencia em sustentação e desenvolvimento de projetos escaláveis utilizando CLEAN CODE, MVC, POO.  
 - Conhecimento em AWS S3
 - Desenvolvimento agil SCRUM, Kanban
 - testes utilizando TDD, PEST,
